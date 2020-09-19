@@ -13,3 +13,5 @@ Vue.use(installToast)
 ```javascript
 vm.$toast.show("这是一个Toast")
 ```
+
+![截图](https://github.com/BingLee1994/vue-mobile-toast/blob/master/screenshot.png)
